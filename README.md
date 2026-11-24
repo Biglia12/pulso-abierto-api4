@@ -78,7 +78,11 @@ También se ejecutaron las pruebas automatizadas, el build y ESLint, sin detecta
 
 ## Publicación
 
-URL de Vercel: pendiente de publicación.
+URL de Vercel: https://pulso-abierto-api4-flame.vercel.app/
+
+## Verificación final
+
+Fecha: 24/11/2026
 
 ## Verificación final
 
@@ -87,5 +91,7 @@ Fecha: 24/11/2026
 - Pruebas automatizadas: 7 aprobadas.
 - Build de producción: generado correctamente.
 - ESLint: sin errores.
-- Preview: pendiente de verificar.
-- Despliegue en Vercel: pendiente.
+- Preview: comprobado correctamente.
+- Despliegue en Vercel: realizado correctamente.
+- Navegación y recarga de detalle: verificadas.
+- URL pública: https://pulso-abierto-api4-flame.vercel.app/
