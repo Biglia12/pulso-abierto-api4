@@ -84,10 +84,6 @@ URL de Vercel: https://pulso-abierto-api4-flame.vercel.app/
 
 Fecha: 24/11/2026
 
-## Verificación final
-
-Fecha: 24/11/2026
-
 - Pruebas automatizadas: 7 aprobadas.
 - Build de producción: generado correctamente.
 - ESLint: sin errores.
